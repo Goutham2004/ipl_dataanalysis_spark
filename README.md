@@ -49,6 +49,20 @@ The data processing involves several steps, including data loading, transformati
 ## Visualization
 
 Insights and trends derived from the data are visualized using matplotlib and seaborn libraries.
+q2
+![Screenshot 2024-06-03 030421](https://github.com/Goutham2004/ipl_dataanalysis_spark/assets/102670790/2a24958b-2131-4f9c-94d6-7c9f8e24b9b2)
+
+![Screenshot 2024-06-03 030412](https://github.com/Goutham2004/ipl_dataanalysis_spark/assets/102670790/ba54156d-beca-4195-939d-3a0aaa99314c)
+
+![Screenshot 2024-06-03 030402](https://github.com/Goutham2004/ipl_dataanalysis_spark/assets/102670790/c9cd63c6-2e53-4265-905c-3767e92b7e94)
+
+![Screenshot 2024-06-03 030352](https://github.com/Goutham2004/ipl_dataanalysis_spark/assets/102670790/6e2afb20-f40e-4b93-ab4c-f919297c7aff)
+
+
+![Screenshot 2024-06-03 030336](https://github.com/Goutham2004/ipl_dataanalysis_spark/assets/102670790/2503f000-4d01-4eef-bf78-edff691f11f2)
+
+
+
 
 ## Getting Started
 
